@@ -1,5 +1,5 @@
 [gear]
 name=Gear RPM Repository
-baseurl=https://clleb.github.io/gear-packages/rpm
+baseurl=https://portfolio.kyere.me/gear-packages/rpm
 enabled=1
 gpgcheck=0
