@@ -1,0 +1,24 @@
+Origin: Gear
+Label: Gear
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Gear APT repository
+Date: Mon, 25 May 2026 03:52:03 +0000
+MD5Sum:
+ 3ac595609da4873dbaa0c3ca9aea2fe2              165 Release
+ 5b1e1650dd414ae1b445d24049c35c54              713 main/binary-amd64/Packages
+ 2859a148008146d75199022b930ef7ad              512 main/binary-amd64/Packages.gz
+SHA1:
+ 6b57efafd017f72c72a2734070f8850fea51bce4              165 Release
+ 4b67dac0568d5cb21e4be3fcf94396eceeadda56              713 main/binary-amd64/Packages
+ dcbcce20c5f60ca48e39360786779252b92ec748              512 main/binary-amd64/Packages.gz
+SHA256:
+ af490e852a3c66794126bef534b08e075d668da6e02f8121bdb397e59dcaf398              165 Release
+ 3379ed8fd1b9c26714c3ff08d497093ee0c5dc9c79cda898332ad1a78959ccf0              713 main/binary-amd64/Packages
+ d4f2c9c590eb0be5312b3a37296146a38cc4e21dbef3c4402ddc406594b6c5c5              512 main/binary-amd64/Packages.gz
+SHA512:
+ b43a02c570aa9ef97eb81a261abca8d202bc8a7f619d58f02021e7cfe357c8d17fae9c9cc2af8391085e8a11030ed6985ec38acb515e0131713360ae1d7addb0              165 Release
+ 51df5138d1734e57c14a439020f678f2778fbde24b025ee67a10baa8a18df458ed3c6eaa635784422b1fcfba08fec49a666bb854652c3bf24e43dea803b0be6d              713 main/binary-amd64/Packages
+ 4988482bcd5ad9c6eef7933f95b753f7bb7a2d38948b7c2f4fc8532b88d3ec4d7fe1da2f5432c954caa529ee560ea790d120f12eb20ca277823f4b364097216c              512 main/binary-amd64/Packages.gz

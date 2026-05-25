@@ -1,0 +1,16 @@
+Package: gear
+Version: 0.1.1
+Architecture: amd64
+Maintainer: cLLeB
+Installed-Size: 10688
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0, libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/gear_0.1.1_amd64.deb
+Size: 5942112
+MD5sum: ef8f3a53b0a90dfffacf176fd37bfb52
+SHA1: e463f74b2c1e3306922001dfa36393f372567050
+SHA256: b7e1bde503111cd020aaa0e2f1e9c72fdd6b2e07bd23f4835460b096b56bbb58
+Section: utils
+Priority: optional
+Description: AI-powered developer terminal
+ Gear is a fast, lightweight developer terminal built on Tauri and Rust. It combines a native PTY backend with an integrated code editor, file explorer, web preview, and a first-class AI assistant — all in under 10 MB, no telemetry, no account required.
+
