@@ -1,14 +1,14 @@
 Package: gear
-Version: 0.1.2
+Version: 0.1.3
 Architecture: amd64
 Maintainer: cLLeB
-Installed-Size: 13947
+Installed-Size: 14386
 Depends: libwebkit2gtk-4.1-0, libgtk-3-0, libwebkit2gtk-4.1-0, libgtk-3-0
-Filename: pool/main/gear_0.1.2_amd64.deb
-Size: 7863164
-MD5sum: aa5faad6072e1e1d13e24e45a914979e
-SHA1: 795e2bff274afb1d32e377917256a7782791926f
-SHA256: 2a27e0a9d43758fc7f28f20b1171e77bdd0ef3df39c8c4bfc3299a1d0daf24e8
+Filename: pool/main/gear_0.1.3_amd64.deb
+Size: 8155482
+MD5sum: b489b2dae5bd06e4b2d0dce0d4e1ccbf
+SHA1: 9bb769da4acf995cb9ea85c467e2919177ea10aa
+SHA256: 534cc905846b5ec078df6319c8c1d52bb1e646062a50b8a98b423be20b030ad1
 Section: utils
 Priority: optional
 Description: AI-powered developer terminal
